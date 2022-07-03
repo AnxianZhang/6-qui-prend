@@ -1,0 +1,270 @@
+Les 2 joueurs sont Niconiconi et Fuyukai_des. Merci de jouer à 6 qui prend !
+A Niconiconi de jouer.
+<pause>
+- Série n° 1 : 13
+- Série n° 2 : 17
+- Série n° 3 : 74
+- Série n° 4 : 5 (2)
+- Vos cartes : 1, 12, 24, 30 (3), 37, 40 (3), 41, 61, 82, 102
+Saisissez votre choix : 102
+<clearScreen>
+A Fuyukai_des de jouer.
+<pause>
+- Série n° 1 : 13
+- Série n° 2 : 17
+- Série n° 3 : 74
+- Série n° 4 : 5 (2)
+- Vos cartes : 19, 27, 29, 42, 49, 56, 60 (3), 62, 85 (2), 97
+Saisissez votre choix : 97
+<clearScreen>
+Les cartes 97 (Fuyukai_des) et 102 (Niconiconi) ont été posées.
+- Série n° 1 : 13
+- Série n° 2 : 17
+- Série n° 3 : 74, 97, 102
+- Série n° 4 : 5 (2)
+Aucun joueur ne ramasse de tête de boeufs.
+A Niconiconi de jouer.
+<pause>
+- Série n° 1 : 13
+- Série n° 2 : 17
+- Série n° 3 : 74, 97, 102
+- Série n° 4 : 5 (2)
+- Vos cartes : 1, 12, 24, 30 (3), 37, 40 (3), 41, 61, 82
+Saisissez votre choix : 61
+<clearScreen>
+A Fuyukai_des de jouer.
+<pause>
+- Série n° 1 : 13
+- Série n° 2 : 17
+- Série n° 3 : 74, 97, 102
+- Série n° 4 : 5 (2)
+- Vos cartes : 19, 27, 29, 42, 49, 56, 60 (3), 62, 85 (2)
+Saisissez votre choix : 19
+<clearScreen>
+Les cartes 19 (Fuyukai_des) et 61 (Niconiconi) ont été posées.
+- Série n° 1 : 13
+- Série n° 2 : 17, 19, 61
+- Série n° 3 : 74, 97, 102
+- Série n° 4 : 5 (2)
+Aucun joueur ne ramasse de tête de boeufs.
+A Niconiconi de jouer.
+<pause>
+- Série n° 1 : 13
+- Série n° 2 : 17, 19, 61
+- Série n° 3 : 74, 97, 102
+- Série n° 4 : 5 (2)
+- Vos cartes : 1, 12, 24, 30 (3), 37, 40 (3), 41, 82
+Saisissez votre choix : 24
+<clearScreen>
+A Fuyukai_des de jouer.
+<pause>
+- Série n° 1 : 13
+- Série n° 2 : 17, 19, 61
+- Série n° 3 : 74, 97, 102
+- Série n° 4 : 5 (2)
+- Vos cartes : 27, 29, 42, 49, 56, 60 (3), 62, 85 (2)
+Saisissez votre choix : 42
+<clearScreen>
+Les cartes 24 (Niconiconi) et 42 (Fuyukai_des) ont été posées.
+- Série n° 1 : 13, 24, 42
+- Série n° 2 : 17, 19, 61
+- Série n° 3 : 74, 97, 102
+- Série n° 4 : 5 (2)
+Aucun joueur ne ramasse de tête de boeufs.
+A Niconiconi de jouer.
+<pause>
+- Série n° 1 : 13, 24, 42
+- Série n° 2 : 17, 19, 61
+- Série n° 3 : 74, 97, 102
+- Série n° 4 : 5 (2)
+- Vos cartes : 1, 12, 30 (3), 37, 40 (3), 41, 82
+Saisissez votre choix : 30
+<clearScreen>
+A Fuyukai_des de jouer.
+<pause>
+- Série n° 1 : 13, 24, 42
+- Série n° 2 : 17, 19, 61
+- Série n° 3 : 74, 97, 102
+- Série n° 4 : 5 (2)
+- Vos cartes : 27, 29, 49, 56, 60 (3), 62, 85 (2)
+Saisissez votre choix : 49
+<clearScreen>
+Les cartes 30 (Niconiconi) et 49 (Fuyukai_des) ont été posées.
+- Série n° 1 : 13, 24, 42, 49
+- Série n° 2 : 17, 19, 61
+- Série n° 3 : 74, 97, 102
+- Série n° 4 : 5 (2), 30 (3)
+Aucun joueur ne ramasse de tête de boeufs.
+A Niconiconi de jouer.
+<pause>
+- Série n° 1 : 13, 24, 42, 49
+- Série n° 2 : 17, 19, 61
+- Série n° 3 : 74, 97, 102
+- Série n° 4 : 5 (2), 30 (3)
+- Vos cartes : 1, 12, 37, 40 (3), 41, 82
+Saisissez votre choix : 1
+<clearScreen>
+A Fuyukai_des de jouer.
+<pause>
+- Série n° 1 : 13, 24, 42, 49
+- Série n° 2 : 17, 19, 61
+- Série n° 3 : 74, 97, 102
+- Série n° 4 : 5 (2), 30 (3)
+- Vos cartes : 27, 29, 56, 60 (3), 62, 85 (2)
+Saisissez votre choix : 28
+Vous n'avez pas cette carte, saisissez votre choix : 29
+<clearScreen>
+Les cartes 1 (Niconiconi) et 29 (Fuyukai_des) vont être posées.
+Pour poser la carte 1, Niconiconi doit choisir la série qu'il va ramasser.
+- Série n° 1 : 13, 24, 42, 49
+- Série n° 2 : 17, 19, 61
+- Série n° 3 : 74, 97, 102
+- Série n° 4 : 5 (2), 30 (3)
+Saisissez votre choix : 0
+Ce n'est pas une série valide, saisissez votre choix : .
+Ce n'est pas une série valide, saisissez votre choix : 3
+Les cartes 1 (Niconiconi) et 29 (Fuyukai_des) ont été posées.
+- Série n° 1 : 13, 24, 42, 49
+- Série n° 2 : 17, 19, 61
+- Série n° 3 : 1, 29
+- Série n° 4 : 5 (2), 30 (3)
+Niconiconi a ramassé 3 têtes de boeufs.
+A Niconiconi de jouer.
+<pause>
+- Série n° 1 : 13, 24, 42, 49
+- Série n° 2 : 17, 19, 61
+- Série n° 3 : 1, 29
+- Série n° 4 : 5 (2), 30 (3)
+- Vos cartes : 12, 37, 40 (3), 41, 82
+Saisissez votre choix : 82
+<clearScreen>
+A Fuyukai_des de jouer.
+<pause>
+- Série n° 1 : 13, 24, 42, 49
+- Série n° 2 : 17, 19, 61
+- Série n° 3 : 1, 29
+- Série n° 4 : 5 (2), 30 (3)
+- Vos cartes : 27, 56, 60 (3), 62, 85 (2)
+Saisissez votre choix : 27
+<clearScreen>
+Les cartes 27 (Fuyukai_des) et 82 (Niconiconi) vont être posées.
+Pour poser la carte 27, Fuyukai_des doit choisir la série qu'il va ramasser.
+- Série n° 1 : 13, 24, 42, 49
+- Série n° 2 : 17, 19, 61
+- Série n° 3 : 1, 29
+- Série n° 4 : 5 (2), 30 (3)
+Saisissez votre choix : 5
+Ce n'est pas une série valide, saisissez votre choix : 4
+Les cartes 27 (Fuyukai_des) et 82 (Niconiconi) ont été posées.
+- Série n° 1 : 13, 24, 42, 49
+- Série n° 2 : 17, 19, 61, 82
+- Série n° 3 : 1, 29
+- Série n° 4 : 27
+Fuyukai_des a ramassé 5 têtes de boeufs.
+A Niconiconi de jouer.
+<pause>
+- Série n° 1 : 13, 24, 42, 49
+- Série n° 2 : 17, 19, 61, 82
+- Série n° 3 : 1, 29
+- Série n° 4 : 27
+- Vos cartes : 12, 37, 40 (3), 41
+Saisissez votre choix : 41
+<clearScreen>
+A Fuyukai_des de jouer.
+<pause>
+- Série n° 1 : 13, 24, 42, 49
+- Série n° 2 : 17, 19, 61, 82
+- Série n° 3 : 1, 29
+- Série n° 4 : 27
+- Vos cartes : 56, 60 (3), 62, 85 (2)
+Saisissez votre choix : 60
+<clearScreen>
+Les cartes 41 (Niconiconi) et 60 (Fuyukai_des) ont été posées.
+- Série n° 1 : 13, 24, 42, 49, 60 (3)
+- Série n° 2 : 17, 19, 61, 82
+- Série n° 3 : 1, 29, 41
+- Série n° 4 : 27
+Aucun joueur ne ramasse de tête de boeufs.
+A Niconiconi de jouer.
+<pause>
+- Série n° 1 : 13, 24, 42, 49, 60 (3)
+- Série n° 2 : 17, 19, 61, 82
+- Série n° 3 : 1, 29, 41
+- Série n° 4 : 27
+- Vos cartes : 12, 37, 40 (3)
+Saisissez votre choix : 12
+<clearScreen>
+A Fuyukai_des de jouer.
+<pause>
+- Série n° 1 : 13, 24, 42, 49, 60 (3)
+- Série n° 2 : 17, 19, 61, 82
+- Série n° 3 : 1, 29, 41
+- Série n° 4 : 27
+- Vos cartes : 56, 62, 85 (2)
+Saisissez votre choix : 56
+<clearScreen>
+Les cartes 12 (Niconiconi) et 56 (Fuyukai_des) vont être posées.
+Pour poser la carte 12, Niconiconi doit choisir la série qu'il va ramasser.
+- Série n° 1 : 13, 24, 42, 49, 60 (3)
+- Série n° 2 : 17, 19, 61, 82
+- Série n° 3 : 1, 29, 41
+- Série n° 4 : 27
+Saisissez votre choix : 4
+Les cartes 12 (Niconiconi) et 56 (Fuyukai_des) ont été posées.
+- Série n° 1 : 13, 24, 42, 49, 60 (3)
+- Série n° 2 : 17, 19, 61, 82
+- Série n° 3 : 1, 29, 41, 56
+- Série n° 4 : 12
+Niconiconi a ramassé 1 têtes de boeufs.
+A Niconiconi de jouer.
+<pause>
+- Série n° 1 : 13, 24, 42, 49, 60 (3)
+- Série n° 2 : 17, 19, 61, 82
+- Série n° 3 : 1, 29, 41, 56
+- Série n° 4 : 12
+- Vos cartes : 37, 40 (3)
+Saisissez votre choix : 29
+Vous n'avez pas cette carte, saisissez votre choix : 37
+<clearScreen>
+A Fuyukai_des de jouer.
+<pause>
+- Série n° 1 : 13, 24, 42, 49, 60 (3)
+- Série n° 2 : 17, 19, 61, 82
+- Série n° 3 : 1, 29, 41, 56
+- Série n° 4 : 12
+- Vos cartes : 62, 85 (2)
+Saisissez votre choix : 85
+<clearScreen>
+Les cartes 37 (Niconiconi) et 85 (Fuyukai_des) ont été posées.
+- Série n° 1 : 13, 24, 42, 49, 60 (3)
+- Série n° 2 : 17, 19, 61, 82, 85 (2)
+- Série n° 3 : 1, 29, 41, 56
+- Série n° 4 : 12, 37
+Aucun joueur ne ramasse de tête de boeufs.
+A Niconiconi de jouer.
+<pause>
+- Série n° 1 : 13, 24, 42, 49, 60 (3)
+- Série n° 2 : 17, 19, 61, 82, 85 (2)
+- Série n° 3 : 1, 29, 41, 56
+- Série n° 4 : 12, 37
+- Vos cartes : 40 (3)
+Saisissez votre choix : 40
+<clearScreen>
+A Fuyukai_des de jouer.
+<pause>
+- Série n° 1 : 13, 24, 42, 49, 60 (3)
+- Série n° 2 : 17, 19, 61, 82, 85 (2)
+- Série n° 3 : 1, 29, 41, 56
+- Série n° 4 : 12, 37
+- Vos cartes : 62
+Saisissez votre choix : 62
+<clearScreen>
+Les cartes 40 (Niconiconi) et 62 (Fuyukai_des) ont été posées.
+- Série n° 1 : 62
+- Série n° 2 : 17, 19, 61, 82, 85 (2)
+- Série n° 3 : 1, 29, 41, 56
+- Série n° 4 : 12, 37, 40 (3)
+Fuyukai_des a ramassé 7 têtes de boeufs.
+** Score final
+Niconiconi a ramassé 4 têtes de boeufs.
+Fuyukai_des a ramassé 12 têtes de boeufs.
