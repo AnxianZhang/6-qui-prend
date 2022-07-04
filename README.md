@@ -1,4 +1,4 @@
-# 6-qui-prend (3éme projet)
+# 6-qui-prend (3ème projet)
 
 ## Note final: 19/20
 
