@@ -1,6 +1,6 @@
 # 6-qui-prend (3ème projet)
 
-## Note final: 19/20
+## Note: 19/20
 
 ### Contenu du dosier
   - src: contient tous les sources du programme (les classe se trouvant dans le paquetage "utile" ont été fourni par l'enseignant);
