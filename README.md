@@ -1,4 +1,4 @@
-# 6-qui-prend (3ème projet)
+# 6-qui-prend (Développement Orienté Objet)
 
 ## Note: 19/20
 
